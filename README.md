@@ -1,4 +1,5 @@
 ## Hello Multiverse!
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='50"'>
 I'm Boaz, Bachelor of Computer Science at Tel Aviv university and aspiring software developer
 - 🙌 I'm currently open to: **Software Development roles (Engineering, Back-end, Network, Security)**
 <br><br>
@@ -12,21 +13,12 @@ I'm Boaz, Bachelor of Computer Science at Tel Aviv university and aspiring softw
 <br><br>
 - 💬 Ask me about: **Science & Technology | Teaching | Strategy video games | Anime | Soundtracks**
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='100"'>
 📫 How to reach me:
 <br>
 
 * [**Drop a Mail**](mailto:boazyakubov@gmail.com)
 * [**Connect via LinkedIn**](https://www.linkedin.com/in/boazyakubov/)
-<br>
-😄 Pronouns: **He/Him**
-<br>
-<br>
-- ⚡ Some Facts: 
 
-  * Besides programming, I've been a Course instructor at the free [**Digital center**](https://www.netanya.muni.il/digitalcenter/) in Netanya for 3 years
-  * Played the 1st clarinet at the [**Netanya Wind-Orchestra**](https://www.youtube.com/user/horimcons) during school
-  * Hummingbirds are the only birds that can fly backward!*
-    
+😄 Pronouns: **He/Him**
 
 
