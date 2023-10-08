@@ -1,5 +1,5 @@
 ## Hello Multiverse!
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='50"'>
+
 I'm Boaz, Bachelor of Computer Science at Tel Aviv university and aspiring software developer
 - 🙌 I'm currently open to: **Software Development roles (Engineering, Back-end, Network, Security)**
 <br><br>
@@ -12,6 +12,8 @@ I'm Boaz, Bachelor of Computer Science at Tel Aviv university and aspiring softw
 - 💪 Proficient in: **C++ | C | Java | Python | Github | Teaching Roles**
 <br><br>
 - 💬 Ask me about: **Science & Technology | Teaching | Strategy video games | Anime | Soundtracks**
+
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='50"'>
 
 📫 How to reach me:
 <br>
