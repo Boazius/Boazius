@@ -1,7 +1,7 @@
 ## Hello Multiverse!
 
 I'm Boaz, Bachelor of Computer Science at Tel Aviv university and aspiring software developer
-- 🙌 I'm currently open to: **Software Development roles (Engineering, Back-end, Network, Security)**
+- 🙌 I'm currently open to: **Software Development roles**
 <br><br>
 - 🔭 I’m currently working on: **Online Portfolio | Job search | Unreal Engine game development | Developing Free Programming courses in hebrew**
 <br><br>
