@@ -5,13 +5,13 @@ I'm Boaz, Bachelor of Computer Science at Tel Aviv university and aspiring softw
 <br><br>
 - 🔭 I’m currently working on: **Online Portfolio | Job search | Unreal Engine game development | Developing Free Programming courses in hebrew**
 <br><br>
-- 🌱 I’m currently learning: **Development Methodologies | Web development | SQL | Java | Python | C++**
+- 🌱 I’m currently learning: **Development Methodologies | Web development | Microsoft Azure Certifications
 <br><br>
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects | Modding or emulating video games**
 <br><br>
-- 💪 Proficient in: **C++ | C | Java | Python | Github | Teaching Roles**
+- 💪 Proficient in: **C++ | C | Java | Python | C# |  Github | Teaching Roles**
 <br><br>
-- 💬 Ask me about: **Science & Technology | Teaching | Strategy video games | Anime | Soundtracks**
+- 💬 Ask me about: **Science & Technology | Teaching | video games | Anime | Soundtracks**
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='50"'>
 
