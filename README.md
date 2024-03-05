@@ -1,17 +1,17 @@
-## Hello Multiverse!
+## Hello World!
 
-I'm Boaz, Bachelor of Computer Science at Tel Aviv university and aspiring software developer
+I'm Boaz, Bachelor of Computer Science at Tel Aviv university and software developer!
 - 🙌 I'm currently open to: **Software Development roles**
 <br><br>
-- 🔭 I’m currently working on: **Online Portfolio | Job search | Unreal Engine game development | Developing Free Programming courses in hebrew**
+- 🔭 I’m currently working on: **Web app that calculates "Arnona" tax by address in israel | Job search | Developing Free Programming courses in hebrew | Expanding my Github portfolio**
 <br><br>
-- 🌱 I’m currently learning: **Development Methodologies | Web development | Microsoft Azure Certifications
+- 🌱 I’m currently learning: **Web development | AWS usage and certificate | Final semester of computer science**
 <br><br>
-- 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects | Modding or emulating video games**
+- 👯 I’m looking to collaborate on: **open source projects | software development jobs*
 <br><br>
-- 💪 Proficient in: **C++ | C | Java | Python | C# |  Github | Teaching Roles**
+- 💪 Proficient in: **C++ | C | Java | Python | C# |  Github | Teaching Roles | Excel**
 <br><br>
-- 💬 Ask me about: **Science & Technology | Teaching | video games | Anime | Soundtracks**
+- 💬 Ask me about: **Tech stuff | Teaching | Video games | Anime | Whatever your heart desires**
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='50"'>
 
