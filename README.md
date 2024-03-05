@@ -7,7 +7,7 @@ I'm Boaz, Software Developer and Bachelor of Computer Science at Tel Aviv univer
 <br><br>
 - 🌱 I’m currently learning: **Web development | AWS usage and certificate | Final semester of computer science**
 <br><br>
-- 👯 I’m looking to collaborate on: **open source projects | software development jobs*
+- 👯 I’m looking to collaborate on: **open source projects | software development jobs**
 <br><br>
 - 💪 Proficient in: **C++ | C | Java | Python | C# |  Github | Teaching Roles | Excel**
 <br><br>
