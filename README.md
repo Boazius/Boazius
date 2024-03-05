@@ -1,6 +1,6 @@
 ## Hello World!
 
-I'm Boaz, Bachelor of Computer Science at Tel Aviv university and software developer!
+I'm Boaz, Software Developer and Bachelor of Computer Science at Tel Aviv university!
 - 🙌 I'm currently open to: **Software Development roles**
 <br><br>
 - 🔭 I’m currently working on: **Web app that calculates "Arnona" tax by address in israel | Job search | Developing Free Programming courses in hebrew | Expanding my Github portfolio**
