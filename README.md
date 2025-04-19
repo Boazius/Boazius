@@ -3,9 +3,7 @@
 I'm Boaz, Software Developer and Bachelor of Computer Science at Tel Aviv university!
 - 🙌 I'm currently open to: **Software Development roles**
 <br><br>
-- 🔭 I’m currently working on: **Web app that calculates "Arnona" tax by address in israel | Job search | Developing Free Programming courses in hebrew | Expanding my Github portfolio**
-<br><br>
-- 🌱 I’m currently learning: **Web development | AWS usage and certificate | Final semester of computer science**
+- 🌱 I’m currently pursuing: **Final semester of computer science**
 <br><br>
 - 👯 I’m looking to collaborate on: **open source projects | software development jobs**
 <br><br>
